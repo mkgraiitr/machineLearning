@@ -1,2 +1,2 @@
 # machineLearning
-The repository is created to keep Machine Learning examples delivered in AI and ML sessions
+The repository is created to host Machine Learning examples delivered in AI and ML sessions
